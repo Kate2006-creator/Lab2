@@ -1,0 +1,51 @@
+C:\Users\stud\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\stud\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\stud\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\stud\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\stud\Desktop\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\stud\Desktop\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\УЧЕБА\ТП\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\УЧЕБА\ТП\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
