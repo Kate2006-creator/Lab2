@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u0427\u0415\u0411\u0410\\\u0422\u041F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1TP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC84E2-9513-4B16-8BD2-CCA652FA4120}|lab1TPTests\\lab1TPTests.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u043F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1tp\\lab1tptests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC84E2-9513-4B16-8BD2-CCA652FA4120}|lab1TPTests\\lab1TPTests.csproj|solutionrelative:lab1tptests\\logictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B627263-AF28-4D8F-AA1A-FFD93A5E49E5}|lab1TP\\lab1TP.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u043F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1tp\\lab1tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B627263-AF28-4D8F-AA1A-FFD93A5E49E5}|lab1TP\\lab1TP.csproj|solutionrelative:lab1tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicTests.cs",
+              "DocumentMoniker": "E:\\\u0423\u0427\u0415\u0411\u0410\\\u0422\u041F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1TP\\lab1TPTests\\LogicTests.cs",
+              "RelativeDocumentMoniker": "lab1TPTests\\LogicTests.cs",
+              "ToolTip": "E:\\\u0423\u0427\u0415\u0411\u0410\\\u0422\u041F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1TP\\lab1TPTests\\LogicTests.cs",
+              "RelativeToolTip": "lab1TPTests\\LogicTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T10:51:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u0423\u0427\u0415\u0411\u0410\\\u0422\u041F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1TP\\lab1TP\\Program.cs",
+              "RelativeDocumentMoniker": "lab1TP\\Program.cs",
+              "ToolTip": "E:\\\u0423\u0427\u0415\u0411\u0410\\\u0422\u041F\\1 \u043B\u0430\u0431\\\u043A\u043E\u0434\u044B\\lab1TP\\lab1TP\\Program.cs",
+              "RelativeToolTip": "lab1TP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:53:38.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.exe
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.deps.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.runtimeconfig.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.pdb
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.AssemblyInfo.cs
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\refint\Лаб1For.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.pdb
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.genruntimeconfig.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\ref\Лаб1For.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.exe
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.deps.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.runtimeconfig.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\bin\Debug\net8.0\Лаб1For.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.AssemblyInfoInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.AssemblyInfo.cs
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\refint\Лаб1For.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\Лаб1For.genruntimeconfig.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1For\obj\Debug\net8.0\ref\Лаб1For.dll

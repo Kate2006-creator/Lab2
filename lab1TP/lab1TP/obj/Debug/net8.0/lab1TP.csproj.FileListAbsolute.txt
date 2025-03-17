@@ -1,0 +1,42 @@
+C:\Users\user\Desktop\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.exe
+C:\Users\user\Desktop\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.deps.json
+C:\Users\user\Desktop\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.runtimeconfig.json
+C:\Users\user\Desktop\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.dll
+C:\Users\user\Desktop\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.pdb
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfo.cs
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.dll
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\refint\lab1TP.dll
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.pdb
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.genruntimeconfig.cache
+C:\Users\user\Desktop\lab1TP\lab1TP\obj\Debug\net8.0\ref\lab1TP.dll
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.exe
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.deps.json
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.runtimeconfig.json
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.dll
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.pdb
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfo.cs
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.dll
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\refint\lab1TP.dll
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.pdb
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.genruntimeconfig.cache
+C:\Users\user\Desktop\ТП\коды\lab1TP\lab1TP\obj\Debug\net8.0\ref\lab1TP.dll
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.exe
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.deps.json
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.runtimeconfig.json
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.dll
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\bin\Debug\net8.0\lab1TP.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfoInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.AssemblyInfo.cs
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.dll
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\refint\lab1TP.dll
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\lab1TP.genruntimeconfig.cache
+E:\УЧЕБА\ТП\1 лаб\коды\lab1TP\lab1TP\obj\Debug\net8.0\ref\lab1TP.dll

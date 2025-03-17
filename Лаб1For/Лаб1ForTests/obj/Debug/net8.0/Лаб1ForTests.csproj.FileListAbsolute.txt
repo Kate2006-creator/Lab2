@@ -1,0 +1,234 @@
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Лаб1ForTests
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\testhost.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.deps.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.runtimeconfig.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.exe
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\testhost.exe
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.deps.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.runtimeconfig.json
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.pdb
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.pdb
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.AssemblyInfo.cs
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForT.FC18B33C.Up2Date
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\refint\Лаб1ForTests.dll
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.pdb
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.genruntimeconfig.cache
+C:\Users\user\Desktop\ТП\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\ref\Лаб1ForTests.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Лаб1ForTests
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\testhost.exe
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\testhost.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.deps.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.runtimeconfig.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.exe
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.deps.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.runtimeconfig.json
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1ForTests.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Лаб1For.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.csproj.AssemblyReference.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.AssemblyInfoInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.AssemblyInfo.cs
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\___1ForT.FC18B33C.Up2Date
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\refint\Лаб1ForTests.dll
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.pdb
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\Лаб1ForTests.genruntimeconfig.cache
+E:\УЧЕБА\ТП\1 лаб\коды\Лаб1For\Лаб1ForTests\obj\Debug\net8.0\ref\Лаб1ForTests.dll
