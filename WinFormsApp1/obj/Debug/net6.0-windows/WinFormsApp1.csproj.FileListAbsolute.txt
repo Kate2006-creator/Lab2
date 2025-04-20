@@ -49,3 +49,21 @@ E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinForm
 E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 E:\УЧЕБА\ТП\2 лаб\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll.config
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\lab2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.sourcelink.json
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\lab2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

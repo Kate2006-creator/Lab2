@@ -1,0 +1,459 @@
+public class Fraction
+    {
+        private int numerator;
+        private int denominator;
+
+        public Fraction(int numerator, int denominator)
+        {
+            if (denominator == 0)
+            {
+                throw new ArgumentException("Знаменатель не может быть равен нулю.");
+            }
+
+            this.numerator = numerator;
+            this.denominator = denominator;
+        }
+
+        public int Numerator
+        {
+            get { return numerator; }
+        }
+
+        public int Denominator
+        {
+            get { return denominator; }
+        }
+
+        public string Verbose()
+        {
+            return string.Format("{0}/{1}", numerator, denominator);
+        }
+
+        // Перегрузка оператора сложения (+)
+        public static Fraction operator +(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Denominator + b.Numerator * a.Denominator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        // Перегрузка оператора вычитания (-)
+        public static Fraction operator -(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Denominator - b.Numerator * a.Denominator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        // Перегрузка оператора умножения (*)
+        public static Fraction operator *(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Numerator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        // Перегрузка оператора деления (/)
+        public static Fraction operator /(Fraction a, Fraction b)
+        {
+            if (b.Numerator == 0)
+            {
+            throw new DivideByZeroException("Деление на ноль!");
+            }
+
+            int newNumerator = a.Numerator * b.Denominator;
+            int newDenominator = a.Denominator * b.Numerator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        // Перегрузка операторов сравнения (==, !=, <, >, <=, >=)
+        public static bool operator ==(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator == b.Numerator * a.Denominator;
+        }
+
+        public static bool operator !=(Fraction a, Fraction b)
+        {
+            return !(a == b);
+        }
+
+        public static bool operator <(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator < b.Numerator * a.Denominator;
+        }
+
+        public static bool operator >(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator > b.Numerator * a.Denominator;
+        }
+
+        public static bool operator <=(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator <= b.Numerator * a.Denominator;
+        }
+
+        public static bool operator >=(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator >= b.Numerator * a.Denominator;
+        }
+
+
+        // НОД 
+        public static int GreatestCommonDivisor(int a, int b)
+        {
+            while (b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
+        }
+
+   
+    public static Fraction Reduce(Fraction fraction)
+        {
+            int gcd = GreatestCommonDivisor(fraction.Numerator, fraction.Denominator);
+            return new Fraction(fraction.Numerator / gcd, fraction.Denominator / gcd);
+        }
+    }
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WinFormsApp1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void buttonAdd_Click(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+                Fraction result = fraction1 + fraction2; 
+                textBoxResultNum.Text = result.Numerator.ToString();
+                textBoxResultDen.Text = result.Denominator.ToString();
+                labelResult1.Text = "";
+        }
+
+
+        private void buttonReduce_Click(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+            Fraction sum = fraction1 + fraction2;
+            textBoxResultNum.Text = sum.Numerator.ToString();
+            textBoxResultDen.Text = sum.Denominator.ToString();
+            labelResult1.Text = "";
+        }
+
+        private void buttonCompare_Click(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+            if (!fraction1.IsValid() || !fraction2.IsValid())
+            {
+                labelResult1.Text = "Ошибка: Числитель должен быть меньше знаменателя. Попробуйте ввести дроби ещё раз.";
+                return;
+            }
+
+            if (!fraction1.IsValidDenominator() || !fraction2.IsValidDenominator())
+            {
+                labelResult1.Text = "Ошибка: Знаменатель не может быть равен 0.";
+                return;
+            }
+
+            if (fraction1 < fraction2)
+            {
+                labelResult1.Text = "fraction1 < fraction2";
+            }
+            else if (fraction1 > fraction2)
+            {
+                labelResult1.Text = "fraction1 > fraction2";
+            }
+            else
+            {
+                labelResult1.Text = "fraction1 = fraction2";
+            }
+        }
+
+
+        private void buttonDivide_Click(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+            if (!fraction1.IsValid() || !fraction2.IsValid())
+            {
+                labelResult1.Text = "Ошибка: Числитель должен быть меньше знаменателя.";
+                return;
+            }
+
+            if (!fraction1.IsValidDenominator() || !fraction2.IsValidDenominator())
+            {
+                labelResult1.Text = "Ошибка: Знаменатель не может быть равен 0.";
+                return;
+            }
+                Fraction result = fraction1 / fraction2;
+                textBoxResultNum.Text = result.Numerator.ToString();
+                textBoxResultDen.Text = result.Denominator.ToString();
+                labelResult1.Text = "";
+            }
+            
+
+
+        private void buttonMultiply_Click(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+            if (!fraction1.IsValid() || !fraction2.IsValid())
+            {
+                labelResult1.Text = "Ошибка: Числитель должен быть меньше знаменателя.";
+                return;
+            }
+
+            if (!fraction1.IsValidDenominator() || !fraction2.IsValidDenominator())
+            {
+                labelResult1.Text = "Ошибка: Знаменатель не может быть равен 0.";
+                return;
+            }
+
+            Fraction result = fraction1 * fraction2;
+            textBoxResultNum.Text = result.Numerator.ToString();
+            textBoxResultDen.Text = result.Denominator.ToString();
+            labelResult1.Text = "";
+        }
+
+        private void buttonSubtract_Click_1(object sender, EventArgs e)
+        {
+            Fraction fraction1 = GetFraction(textBoxNum1, textBoxDen1);
+            Fraction fraction2 = GetFraction(textBoxNum2, textBoxDen2);
+
+            if (!fraction1.IsValid() || !fraction2.IsValid())
+            {
+                labelResult1.Text = "Ошибка: Числитель должен быть меньше знаменателя.";
+                return;
+            }
+
+            if (!fraction1.IsValidDenominator() || !fraction2.IsValidDenominator())
+            {
+                labelResult1.Text = "Ошибка: Знаменатель не может быть равен 0.";
+                return;
+            }
+
+            Fraction result = fraction1 - fraction2;
+            textBoxResultNum.Text = result.Numerator.ToString();
+            textBoxResultDen.Text = result.Denominator.ToString();
+            labelResult1.Text = "";
+        }
+        private void clearButton_Click(object sender, EventArgs e)
+        {
+            textBoxNum1.Text = "";
+            textBoxDen1.Text = "";
+            textBoxNum2.Text = "";
+            textBoxDen2.Text = "";
+            textBoxResultNum.Text = "";
+            textBoxResultDen.Text = "";
+            labelResult1.Text = "";
+            labelResult2.Text = "";
+        }
+
+
+        private void textBoxNum1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                e.Handled = true; // Предотвращаем добавление символа Enter в текстовое поле
+                textBoxDen1.Focus(); // Переводим фокус на textBoxDen1
+            }
+        }
+
+        private void textBoxDen1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                e.Handled = true;
+                textBoxNum2.Focus();
+            }
+        }
+
+        private void textBoxNum2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                e.Handled = true;
+                textBoxDen2.Focus();
+            }
+        }
+
+        private void textBoxDen2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxDen2_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                e.Handled = true;
+
+                buttonAdd.Focus();
+            }
+        }
+
+        private Fraction GetFraction(TextBox numTextBox, TextBox denTextBox)
+        {
+            try
+            {
+                int num = int.Parse(numTextBox.Text);
+                int den = int.Parse(denTextBox.Text);
+                return new Fraction { Numerator = num, Denominator = den };
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Ошибка: Введите целые числа.");
+                return new Fraction { Numerator = 0, Denominator = 1 };
+            }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+
+    public struct Fraction
+    {
+        public int Numerator;
+        public int Denominator;
+
+        public bool IsValid()
+        {
+            return Numerator < Denominator;
+        }
+        public bool IsValidDenominator()
+        {
+            return Denominator != 0;
+        }
+        public Fraction(int numerator, int denominator)
+        {
+            if (denominator == 0)
+            {
+                throw new ArgumentException("Знаменатель не может быть равен нулю.");
+            }
+            Numerator = numerator;
+            Denominator = denominator;
+        }
+
+        public static Fraction operator +(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Denominator + b.Numerator * a.Denominator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        public static Fraction operator -(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Denominator - b.Numerator * a.Denominator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        public static Fraction operator *(Fraction a, Fraction b)
+        {
+            int newNumerator = a.Numerator * b.Numerator;
+            int newDenominator = a.Denominator * b.Denominator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+        
+        public static Fraction operator /(Fraction a, Fraction b)
+        {
+            if (b.Numerator == 0)
+            {
+                throw new DivideByZeroException("Деление на ноль!");
+            }
+
+            int newNumerator = a.Numerator * b.Denominator;
+            int newDenominator = a.Denominator * b.Numerator;
+            return Reduce(new Fraction(newNumerator, newDenominator));
+        }
+
+     
+        public static bool operator ==(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator == b.Numerator * a.Denominator;
+        }
+
+        public static bool operator !=(Fraction a, Fraction b)
+        {
+            return !(a == b);
+        }
+
+        public static bool operator <(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator < b.Numerator * a.Denominator;
+        }
+
+        public static bool operator >(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator > b.Numerator * a.Denominator;
+        }
+
+        public static bool operator <=(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator <= b.Numerator * a.Denominator;
+        }
+
+        public static bool operator >=(Fraction a, Fraction b)
+        {
+            return a.Numerator * b.Denominator >= b.Numerator * a.Denominator;
+        }
+
+     
+
+        // Наибольший общий делитель (для сокращения дроби) - делаем private, так как используется только внутри структуры
+        private static int GreatestCommonDivisor(int a, int b)
+        {
+            while (b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
+        }
+
+        // Сокращение дроби - делаем private, так как используется только внутри структуры
+        private static Fraction Reduce(Fraction fraction)
+        {
+            int gcd = GreatestCommonDivisor(fraction.Numerator, fraction.Denominator);
+            return new Fraction(fraction.Numerator / gcd, fraction.Denominator / gcd);
+        }
+    }
+}
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/0iiGKMnPE=",
+  "dgSpecHash": "ENTvzfWAu4M=",
   "success": true,
-  "projectFilePath": "E:\\УЧЕБА\\ТП\\2 лаб\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
+  "projectFilePath": "D:\\lab2\\WinFormsApp1Tests\\WinFormsApp1Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tecno\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\Tecno\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
