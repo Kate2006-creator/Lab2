@@ -1,0 +1,16 @@
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\bin\Debug\net8.0-windows\lab4.exe
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\bin\Debug\net8.0-windows\lab4.deps.json
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\bin\Debug\net8.0-windows\lab4.runtimeconfig.json
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\bin\Debug\net8.0-windows\lab4.dll
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\bin\Debug\net8.0-windows\lab4.pdb
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.Form1.resources
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.GenerateResource.cache
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfoInputs.cache
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.AssemblyInfo.cs
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.csproj.CoreCompileInputs.cache
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.dll
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\refint\lab4.dll
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.pdb
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\lab4.genruntimeconfig.cache
+E:\УЧЕБА\ТП\4 лаб\lab4\lab4\obj\Debug\net8.0-windows\ref\lab4.dll
